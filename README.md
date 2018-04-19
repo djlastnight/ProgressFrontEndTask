@@ -58,6 +58,8 @@ To add some example data to our “CheckBoxList like” control, I created a sim
   
   - Thank you for choosing our UI for WPF suite!  
   
+You can download a [complied version](https://github.com/djlastnight/ProgressFrontEndTask/releases) of the task.
+  
 Greetings,
 
 Ivan Yankov  
