@@ -32,7 +32,7 @@ namespace FrontEndTask.Common
             if (age > Person.MaxAllowedAge)
             {
                 throw new OverflowException(
-                    string.Format("The max allowed age value {0} have been exceed: {0}", Person.MaxAllowedAge, age));
+                    string.Format("The max allowed age value {0} have been exceed: {1}", Person.MaxAllowedAge, age));
             }
 
             return Convert.ToByte(age);
