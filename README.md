@@ -58,7 +58,7 @@ To add some example data to our “CheckBoxList like” control, I created a sim
   
   - Thank you for choosing our UI for WPF suite!  
   
-You can download a [complied version](https://github.com/djlastnight/ProgressFrontEndTask/releases) of the task.
+You can download a [complied version](https://github.com/djlastnight/ProgressFrontEndTask/releases) of the task. You will need `Microsoft .NET Framework 4.5` or newer to run it on your PC.
   
 Greetings,
 
