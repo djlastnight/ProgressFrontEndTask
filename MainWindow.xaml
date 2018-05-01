@@ -14,6 +14,11 @@
             <RowDefinition />
         </Grid.RowDefinitions>
         <CheckBox x:Name="testCheckBox" IsThreeState="True">Test checkbox</CheckBox>
+        <Button Margin="50,0"
+                Width="200"
+                Height="20"
+                Content="Add Random Person"
+                Command="{Binding AddRandomPersonCommand}" />
         <telerik:RadListBox Grid.Row="1"
                             Style="{StaticResource CheckedRadListBoxStyle}"
                             ItemsSource="{Binding CheckedRadListBoxItemsSource}"
